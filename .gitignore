@@ -1,5 +1,6 @@
 # fprime items
 logs/
+gds_logs/
 cmake-build-*
 build-artifacts/
 build-fprime-*
@@ -10,6 +11,8 @@ build-fprime-*
 # Misc
 /venv/
 /fprime-venv/
+__pycache__/
+*.pyc
 /.idea/
 /.vscode/
 .DS_Store
